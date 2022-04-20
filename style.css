@@ -49,3 +49,8 @@ main h2 {
     background-color: green;
     color: white;
 }
+.Tito-style {
+    color: white;
+    background-color: black;
+    padding: 3px;
+}
